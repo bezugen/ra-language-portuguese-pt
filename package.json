@@ -1,0 +1,25 @@
+{
+  "name": "ra-language-portuguese-pt",
+  "version": "1.0.0",
+  "description": "Portuguese translations (pt-PT) for react-admin, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bezugen/ra-language-portuguese-pt.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "portuguese",
+    "translation"
+  ],
+  "author": "João Gomes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bezugen/ra-language-portuguese-pt/issues"
+  },
+  "homepage": "https://github.com/bezugen/ra-language-portuguese-pt#readme"
+}
